@@ -1,0 +1,33 @@
+.header {
+    background: #00194c;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.header > div {
+    width: 65%;
+    display: flex;
+    margin: auto;
+    justify-content: space-around;
+}
+.header > div > span {
+    display: flex;
+    margin-right: 35%;
+}
+.header > div > span > div, .header > div >div {
+    margin-right: 15px;
+}
+.icon {
+    width: 20px;
+    height: 2px;
+    background-color: white;
+    margin: 4px 0;
+}
+.special {
+    border: 2px solid white;
+    margin-top: -4px;
+    padding: 2px 15px 2px 15px;
+    border-radius: 45px;
+    background: white;
+    color: #00194c;
+}

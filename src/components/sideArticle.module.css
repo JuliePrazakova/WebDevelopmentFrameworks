@@ -1,0 +1,37 @@
+.container {
+    width: 300px;
+    float: right;
+    margin: 20px auto 20px auto;
+    background: white;
+    padding: 20px 20px 0px 20px;
+}
+.box {
+    border-bottom: 1px solid #e9eaed;
+    padding-bottom: 20px;
+}
+.number {
+    font-size: 30px;
+    margin: 10px 30px auto auto;
+    color: #4196a4;
+    font-weight: bold;
+}
+.title {
+    margin: auto;
+}
+.mainTitle {
+    font-size: 25px;
+    font-weight: bold;
+    color: #00194c;
+    padding: 0px 0px 10px 0px;
+    border-bottom: 1px solid #00194c;
+}
+.button {
+    margin: 20px auto 0px auto;
+    width: 85px;
+    padding: 5px 10px 8px 10px;
+    border: 1px solid #4196a4;
+    border-radius: 45px;
+    background: white;
+    color: #4196a4;
+    font-weight: bold;
+}
