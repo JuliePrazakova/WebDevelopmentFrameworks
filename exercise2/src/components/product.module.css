@@ -1,0 +1,11 @@
+.line {
+    background: pink;
+    display: flex;
+    height: 20px;
+    margin: 5px 0px 5px auto;
+}
+
+.box {
+    width: 40px;
+    margin: auto 5px auto 5px;
+}

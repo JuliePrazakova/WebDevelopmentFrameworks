@@ -1,0 +1,9 @@
+.shoppingList {
+    margin: auto;
+    border: 1px solid black;
+    width: 400px;
+    padding-left: 20px;
+}
+.shoppingList > button {
+    margin-right: 10px;
+}
