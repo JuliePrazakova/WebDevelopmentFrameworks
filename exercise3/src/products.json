@@ -1,0 +1,160 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "CPA Halo 18",
+      "price": 990,
+      "priceRange": "948 - 1290",
+      "where": "V 15 obchodech",
+      "currency": "Kč", 
+      "top": 1,   
+      "rating": 90,
+      "image": "image1.jpg",
+      "description": "Aby každý senior mohl být v tolik potřebném kontaktu s okolím, využije praktický telefon s jednoduchým ovládáním, který odpovídá potřebám a požadavkům starší generace."
+
+    },
+    {
+      "id": 2,
+      "name": "Sony Playstation 5",
+      "price": 13490,
+      "priceRange": "13 490 - 24 990",
+      "where": "V 64 obchodech",
+      "currency": "Kč", 
+      "top": 2,   
+      "rating": 78,
+      "image": "image2.jpg",
+      "description": "Nevídaný výkon, blesková rychlost a oslnivý design. Nejnovější konzole společnosti Sony přichází s množstvím vylepšení, které posunou hraní na novou úroveň."
+
+    },
+    {
+      "id": 3,
+      "name": "LAMAX Dots2",
+      "price": 1290,
+      "priceRange": "1 091 - 1 590",
+      "where": "V 47 obchodech",
+      "currency": "Kč", 
+      "top": 1,   
+      "rating": 86,
+      "image": "image3.jpg",
+      "description": "True Wireless bezdrátová sluchátka s dobíjecím pouzdrem vám poskytnou perfektní zážitek z hudby. Na jedno nabití vydrží hrát až šest hodin. Navíc tři velikosti špuntů v balení."
+
+    },
+    {
+      "id": 4,
+      "name": "Asus Vivoatch BP",
+      "price": 3489,
+      "priceRange": "2 961 - 5 233",
+      "where": "V 68 obchodech",
+      "currency": "Kč", 
+      "top": 1,   
+      "rating": 70,
+      "image": "image4.jpg",
+      "description": "Chytré hodinky pro pokročilé sledování zdravotního stavu pomocí senzorů pro elektrografii (ECG) a fotopletysmografii (PPG)"
+
+    },
+    {
+      "id": 5,
+      "name": "Huawei Band 4 Pro",
+      "price": 888,
+      "priceRange": "888 - 1899",
+      "where": "V 58 obchodech",
+      "currency": "Kč",
+      "top": 1,
+      "rating": 95,
+      "image": "image5.jpg",
+      "description": "Chytrý náramek, který perfektně vypadá a je skvěle vybaven? Huawei Band 4 Pro vám nahradí osobního asistenta, navigátora, sportovního trenéra i spánkového specialistu."
+
+    },
+    {
+      "id": 6,
+      "name": "STRONG SRT202EMATIC",
+      "price": 2189,
+      "priceRange": "2 9189 - 2 776",
+      "where": "V 32 obchodech",
+      "currency": "Kč",
+      "top": 1,
+      "rating": 90,
+      "image": "image6.jpg",
+      "description": "Podpora tisíců aplikací pro velkou obrazovku z obchodu Google Play Store Streamování Google Chromecast pro sledování HD filmů na velké TV obrazovce Snadné stahování."
+
+    },
+    {
+      "id": 7,
+      "name": "Apple Macbook Air 2020 Space Grey",
+      "price": 26120,
+      "priceRange": "26 120 - 41 436",
+      "where": "V 50 obchodech",
+      "currency": "Kč",
+      "top": 2,
+      "rating": 97,
+      "image": "image7.jpg",
+      "description": "Ať už oceníte spíš výkonné technologie, nebo si potrpíte na špičkový displej, jedno je jisté - tohle je notebook, který vás svou výbavou bude překvapovat každý den."
+
+    },
+    {
+      "id": 8,
+      "name": "Hinsense 32A5600F",
+      "price": 5990,
+      "priceRange": "5 989 - 6 659",
+      "where": "V 16 obchodech",
+      "currency": "Kč",
+      "top": 3,
+      "rating": 92,
+      "image": "image8.jpg",
+      "description": "Do každé domácnosti se sluší pořídit TV s dobrým obrazem, který vám věrně poslouží při odpočinku u filmů nebo při fandění u sportovních přenosů."
+
+    },
+    {
+      "id": 9,
+      "name": "Monitorrs Security 6002K4",
+      "price": 7135,
+      "priceRange": "7 135",
+      "where": "V 1 obchodě",
+      "currency": "Kč",
+      "top": 3,
+      "rating": 0,
+      "image": "image9.jpg",
+      "description": "Kvalitní 4 kanálový FullHD kamerový set s rozlišení 2 Mpix - 1920 (H) * 1080 (V)Kamery jsou v kovovém, antivandal pouzdře s nočním přísvitem až do 20 mZáznamové zařízen."
+
+    },
+    {
+      "id": 10,
+      "name": "Lenovo Tab M10 Plus ZA5T0081CZ",
+      "price": 4999,
+      "priceRange": "4 594 - 5 390",
+      "where": "V 35 obchodech",
+      "currency": "Kč",
+      "top": 1,
+      "rating": 93,
+      "image": "image10.jpg",
+      "description": "Tablet pro celou rodinu s prostornou obrazovkou, Full HD rozlišením a zvukem Dolby Atmos. Disponuje osmijádrovým procesorem, hlasovým ovládáním i zabezpečeným režimem pro děti."
+
+    },
+    {
+      "id": 11,
+      "name": "Sony DualShock 4V2",
+      "price": 1659,
+      "priceRange": "1 488 - 2 221",
+      "where": "V 27 obchodech",
+      "currency": "Kč",
+      "top": 2,
+      "rating": 95,
+      "image": "image11.jpg",
+      "description": "Ovladač, který nepustíte z ruky! Pohybové senzory, dotykový panel a klasická tlačítka umožní ovládání na všechny způsoby. Vibrace a integrovaný reproduktor dodají hře nový rozměr."
+
+    },
+    {
+      "id": 12,
+      "name": "Vtech Kidizoom Duo MX 5.0",
+      "price": 1611,
+      "priceRange": "1 499 - 2 082",
+      "where": "V 27 obchodech",
+      "currency": "Kč",
+      "top": 2,
+      "rating": 87,
+      "image": "image12.jpg",
+      "description": "Tento dětský fotoaparát se spoustou vychytávek by neměl chybět žádnému malému hravému umělci."
+
+    }
+  ]
+}

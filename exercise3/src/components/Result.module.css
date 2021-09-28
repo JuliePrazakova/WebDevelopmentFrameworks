@@ -1,0 +1,26 @@
+.name {
+    margin-top: 20px;
+}
+.price
+{
+    font-weight: 700;
+    margin-bottom: 5px;
+
+}
+.product
+{
+    font-size: 12px;
+    width: 25%;
+    box-sizing: border-box;
+    padding: 30px;
+}
+.top {
+    color: white;
+    background: darkorange;
+    border-radius: 25px;
+    width: 45px;
+    text-align: center;
+}
+.where {
+    text-decoration: underline;
+}

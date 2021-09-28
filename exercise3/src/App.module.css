@@ -1,0 +1,12 @@
+.container {
+    width: 90%;
+    margin: auto;
+}
+.searchBar > input {
+    border-radius: 25px;
+    border: 0px solid lightblue;
+    padding: 10px;
+    font-size: 15px;
+    background: #F5F5F5;
+    margin-top: 20px;
+}
