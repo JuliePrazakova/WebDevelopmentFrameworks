@@ -1,0 +1,43 @@
+{{>header}}
+
+<table class="container">
+    <thead>
+    <tr>
+        <th>Name</th>
+        <th>Manufacturer</th>
+        <th>Category</th>
+        <th>Description</th>
+        <th>Price</th>
+        <th class="panel">
+            <div class="btn"><a href="/">View All</a></div>
+        </th>
+    </tr>
+    </thead>
+    <tbody>
+    {{#products}}
+        <tr>
+            <td>{{name}}</td>
+            <td>{{manufacturer}}</td>
+            <td>{{category}}</td>
+            <td>{{description}}</td>
+            <td>{{price}}</td>
+            <td class="panel">
+                <div class="btn"><a href="/delete/{{id}}">Delete</a></div>
+            </td>
+        </tr>
+    {{/products}}
+    </tbody>
+</table>
+
+
+<form method="POST" class="edit-container">
+    <div>
+        <input type="text" name="name" placeholder="Name" required>
+        <input type="text" name="manufacturer" placeholder="Manufacturer" required>
+        <input type="text" name="category" placeholder="Category" required>
+        <input type="text" name="description" placeholder="Description" required>
+        <input type="text" name="price" placeholder="Price" required>
+    </div>
+    <input class="btn" type="submit" value="Done">
+</form>
+
