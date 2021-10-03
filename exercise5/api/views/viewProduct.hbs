@@ -1,0 +1,30 @@
+{{>header}}
+ <table class="container">
+        <thead>
+        <tr>
+            <th>Name</th>
+            <th>Manufacturer</th>
+            <th>Category</th>
+            <th>Description</th>
+            <th>Price</th>
+            <th class="panel">
+                <div class="btn"><a href="/">View All</a></div>
+            </th>
+        </tr>
+        </thead>
+        <tbody>
+        {{#products}}
+            <tr>
+                <td>{{name}}</td>
+                <td>{{manufacturer}}</td>
+                <td>{{category}}</td>
+                <td>{{description}}</td>
+                <td>{{price}}</td>
+                <td class="panel">
+                    <div class="btn"><a href="/edit/{{id}}">Edit</a></div>
+                    <div class="btn"><a href="/delete/{{id}}">Delete</a></div>
+                </td>
+            </tr>
+        {{/products}}
+        </tbody>
+    </table>
